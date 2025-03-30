@@ -17,5 +17,4 @@ Este é um projeto em React para a gestão de produtos. Ele permite visualizar, 
 
 - **React**: Biblioteca para criação da interface de usuário.
 - **TypeScript**: Superset de JavaScript para tipagem estática.
-- **Axios**: Biblioteca para fazer requisições HTTP.
 - **FakeStoreAPI**: API falsa usada para simular um banco de dados de produtos.
