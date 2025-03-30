@@ -18,3 +18,29 @@ Este é um projeto em React para a gestão de produtos. Ele permite visualizar, 
 - **React**: Biblioteca para criação da interface de usuário.
 - **TypeScript**: Superset de JavaScript para tipagem estática.
 - **FakeStoreAPI**: API falsa usada para simular um banco de dados de produtos.
+
+## 🚀 Instruções para Clonar e Executar o Projeto
+
+1. **Clone o repositório**:
+    
+    ```bash
+    git clone <https://github.com/juliamofardinii/APIfakeStore.git>
+    ```
+    
+2. **Acesse o Diretório do Projeto**
+    
+    ```bash
+    cd APIfakeStore
+    ```
+    
+3. **Instale as Dependências**
+    
+    ```bash
+    npm install
+    ```
+    
+4. **Inicie o Servidor de Desenvolvimento**
+    
+    ```bash
+    npm start
+    ```
