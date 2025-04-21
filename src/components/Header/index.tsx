@@ -48,12 +48,12 @@ const Header = () => {
             Home
           </Link>
 
-          {/*  <Link
+          <Link
             to="/adicionar-produto"
             className="text-lg mx-4 hover:text-teal-400"
           >
             Adicionar Produto
-          </Link> */}
+          </Link>
         </nav>
       </div>
     </header>
